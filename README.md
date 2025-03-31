@@ -1,5 +1,7 @@
 # DPSchmidt Website
 
+# cursor trial easy webpage
+
 This is the official website for DPSchmidt, featuring a modern design and optimized for search engines.
 
 ## Features
