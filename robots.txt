@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Allow: /about.html
+Allow: /career.html
+Allow: /customers.html
+Allow: /experience.html
+Allow: /knowhow.html
+Allow: /thoughts.html
+Allow: /blog/
+Allow: /sitemap.xml
+
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+
+Sitemap: https://dpschmidt.ch/sitemap.xml 
